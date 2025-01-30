@@ -8,7 +8,7 @@ title = "Justin Ryan Chambers"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-[author]
+[params.author]
   name = "Justin Ryan Chambers"
   headline = "IT Professional, Photographer"
   image = "/me.png"  # path relative to static directory
@@ -23,7 +23,6 @@ disableKinds = ["taxonomy", "term"]
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
     # { facebook = "https://facebook.com/username" },
-    # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
@@ -48,8 +47,10 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-	{ 500px = { href = "https://500px.com/p/justinryanc", text = "500px" }},
-    { youtube = "https://www.youtube.com/channel/UCIh7u81ip800JVw923yhSJw" },
+	#{ 500px = { href = "https://500px.com/p/justinryanc", text = "500px" }},
+    { portfolio = { href = "https://justinryanc.myportfolio.com", text = "Portfolio", icon = "portfolio" }},
+    { flickr = "https://www.flickr.com/photos/chambersjr/" },
+    #{ youtube = "https://www.youtube.com/channel/UCIh7u81ip800JVw923yhSJw" },
     { linkedin = "https://www.linkedin.com/in/justinryanc" },
   ]
 

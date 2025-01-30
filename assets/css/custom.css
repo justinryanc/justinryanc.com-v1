@@ -1,7 +1,14 @@
 .link-500px {
 	color: #000000;
-	background-color: #ffffff;
+	background-color: #d3d3d3;
 }
+
+.link-portfolio {
+	color: #000000;
+	background-color: #d3d3d3;
+}
+
+
 h1 {
 	font-family: "Brush Script MT", cursive;
 }
