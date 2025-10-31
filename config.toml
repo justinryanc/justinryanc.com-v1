@@ -1,5 +1,6 @@
 baseURL = "https://justinryanc.github.io/justinryanc.com-v1/"
-canonifyURLs = true
+RelativeURLs=true
+CanonifyURLs=true
 languageCode = "en"
 defaultContentLanguage = "en"
 
